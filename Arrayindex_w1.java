@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Arrayindex{
+class Arrayindex_w1{
 public static void main(String args[]){
 int arr[]={4,5,6,7,8};
 Scanner sc=new Scanner(System.in);
@@ -13,3 +13,4 @@ System.out.println("invalid index");
 }
 }
 }
+
