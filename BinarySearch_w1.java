@@ -1,6 +1,6 @@
 import java.util.*;
 import java.util.Arrays;
-class BinarySearch {
+class BinarySearch_w1 {
 
    
     public static int binarySearch(int[] arr, int target) {
@@ -39,4 +39,5 @@ class BinarySearch {
             System.out.println("Element found at index: " + result);
         }
     }
+
 }
