@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class Maxnum{
+class Maxnum_w1{
 public static void main(String args[]){
 Scanner sc=new Scanner(System.in);
 System.out.println("Enter number of elements: ");
@@ -18,3 +18,4 @@ max=arr[i];
 System.out.println("maximum number is "+max);
 }
 }
+
